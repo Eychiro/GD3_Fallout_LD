@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/raphael.symoens/Documents/GitHub/GD3_Fallout_LD/GD3_Fallout_LD/Content/Input/IMC_Default.uasset"
+				"C:/Users/raphael.symoens/Documents/GitHub/GD3_Fallout_LD/GD3_Fallout_LD/Content/Input/IMC_Default.uasset",
+				"C:/Users/raphael.symoens/Documents/GitHub/GD3_Fallout_LD/GD3_Fallout_LD/Content/FirstPerson/Blueprints/BP_Objet.uasset",
+				"C:/Users/raphael.symoens/Documents/GitHub/GD3_Fallout_LD/GD3_Fallout_LD/Content/Materials/M_Outline.uasset",
+				"C:/Users/raphael.symoens/Documents/GitHub/GD3_Fallout_LD/GD3_Fallout_LD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/HJ/IK3E2PHUZO59X9HQKAR0D7.uasset"
 			]
 		}
 	]
