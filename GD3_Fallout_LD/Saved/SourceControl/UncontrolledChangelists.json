@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/raphael.symoens/Documents/GitHub/GD3_Fallout_LD/GD3_Fallout_LD/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
